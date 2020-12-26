@@ -20,4 +20,4 @@ echo
 _echo__purple " SNAAAAKE!"
 _echo__yellow "+----------------+"
 echo
-alias cd_code='cd /Volumes/VAULT/code'
+alias cd_code='cd ~/code'
