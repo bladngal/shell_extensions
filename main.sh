@@ -12,12 +12,12 @@ export SHELL_EXT_FOLDER
 . $SHELL_EXT_FOLDER/env/color_echo.sh
 
 echo
-_echo__yellow "+----------------+"
-_echo__green "    ,=e    \e[31m Look, \e[0m"
-_echo__green "    \`-. \e[31m I'm a snake!\e[0m"
-_echo__green "   _,-'"
+_echo__purple "+----------------+"
+_echo__yellow "     (\/)     Look, \e[0m"
+_echo__yellow "    ( ºº )    I'm a bunny!\e[0m"
+_echo__yellow "   O(“)(“)"
 echo 
-_echo__purple " SNAAAAKE!"
-_echo__yellow "+----------------+"
+_echo__green " BUNNY!"
+_echo__purple "+----------------+"
 echo
 alias cd_code='cd ~/code'
